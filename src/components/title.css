@@ -1,0 +1,45 @@
+  
+
+  :root {
+    --color-1: #020204;
+    --color-2: #F9F871;
+    --color-3: #F5AE60;
+    --color-4: #C97264;
+    --color-5: #83495B;
+    --color-6: #3B2A3B;  
+  }
+  
+
+
+
+.header {
+    margin: 2rem;
+    color: var(--color-2);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    position: relative;
+
+}
+
+.header::after {
+    position: absolute;
+    content: url(../assets/images/download.svg);
+    width: 2rem;
+    bottom: -80%;
+    left: 50%;
+    transform: translate(-50%);
+    border-right:.5px var(--color-1);
+    border-left: .5px var(--color-1);
+    padding-inline: 10px;
+    background-color: var(--color-1);
+}
+
+.header::before {
+    position: absolute;
+    content: '';
+    background-color: var(--color-2);
+    width: 20rem;
+    height: .15em;
+    bottom: -50%;
+}

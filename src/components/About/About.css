@@ -1,0 +1,18 @@
+
+:root {
+    --color-1: #020204;
+    --color-2: #F9F871;
+    --color-3: #F5AE60;
+    --color-4: #C97264;
+    --color-5: #83495B;
+    --color-6:#3B2A3B;
+  
+  }
+  
+
+
+
+p.col-md-5
+{
+    color: var(--color-4) !important;
+}

@@ -1,0 +1,25 @@
+:root {
+    --color-1: #020204;
+    --color-2: #F9F871;
+    --color-3: #F5AE60;
+    --color-4: #C97264;
+    --color-5: #83495B;
+    --color-6: #3B2A3B;  
+  }
+  
+
+picture img
+{
+    margin: 2rem;
+    max-width: 100%;
+    width: 16rem;
+    height: 16rem;
+    object-position: top;
+    object-fit: cover;
+border-radius: 50%;
+}
+h4 {
+  text-align: center;
+  color: var(--color-3) !important;
+  text-wrap: balance;
+}

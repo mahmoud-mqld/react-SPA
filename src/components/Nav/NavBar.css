@@ -1,0 +1,42 @@
+
+:root {
+    --color-1: #020204;
+    --color-2: #F9F871;
+    --color-3: #F5AE60;
+    --color-4: #C97264;
+    --color-5: #83495B;
+    --color-6: #3B2A3B;  
+  }
+
+  nav.navbar{
+    padding-bottom: 1rem ;
+
+    transition: all 1s ease-in-out;
+  background-color: var(--color-6);
+  }
+  
+.navbar-brand {
+    font-size: 1.5rem !important;
+    color: var(--color-3) !important;
+}
+
+.nav-link{
+    color: var(--color-4) !important;
+
+}
+
+.activate {
+    color: var(--color-2) !important;
+    font-size: 1.2rem !important;
+    /* background-color: var(--color-5) !important; */
+}
+
+.navbar-toggler-icon{
+    color: var(--color-3);
+}
+
+.scrolled{
+
+    padding-bottom: 0rem !important;
+    background-color:var(--color-5) !important;
+}

@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --color-1: #020204;
+    --color-2: #F9F871;
+    --color-3: #F5AE60;
+    --color-4: #C97264;
+    --color-5: #83495B;
+    --color-6: #3B2A3B;  
+  }
+  
+#footer {
+    /* background-color:; */
+    /* line-height: 0; */
+    color: var(--color-5);
+    margin-top:2rem;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+#footer i {
+    border: 1px solid var(--color-5);
+    padding: 10px;
+    border-radius: 50%;
+
+}
+
+#footer i:hover{
+    color: var(--color-2);
+    background-color: var(--color-6);
+    scale: 1.2;
+}

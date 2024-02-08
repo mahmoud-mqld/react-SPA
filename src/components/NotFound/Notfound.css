@@ -1,0 +1,18 @@
+
+.not-found {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../../assets/images/404.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+   /* background-size: ; */
+   
+}
+
+.not-found h2 {
+   
+    color: white !important;
+}
