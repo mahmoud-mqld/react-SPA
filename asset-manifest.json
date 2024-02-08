@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-SPA/static/css/main.0872304b.css",
+    "main.js": "/react-SPA/static/js/main.8addf93d.js",
+    "static/js/592.d7f30c30.chunk.js": "/react-SPA/static/js/592.d7f30c30.chunk.js",
+    "static/media/2.png": "/react-SPA/static/media/2.a418da5c10132db700c0.png",
+    "static/media/6.jpg": "/react-SPA/static/media/6.b5ca8dabce2496770956.jpg",
+    "static/media/1.jpg": "/react-SPA/static/media/1.54d24340eec32d0e31bc.jpg",
+    "static/media/5.jpg": "/react-SPA/static/media/5.bd31989a8ef2261ce623.jpg",
+    "static/media/4.jpg": "/react-SPA/static/media/4.dac0a9b6cfb0fc5d2161.jpg",
+    "static/media/fa-solid-900.ttf": "/react-SPA/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/3.jpg": "/react-SPA/static/media/3.1646195fa4cbb3ecf8e1.jpg",
+    "static/media/fa-brands-400.ttf": "/react-SPA/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/react-SPA/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/react-SPA/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/react-SPA/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/react-SPA/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/home.jpg": "/react-SPA/static/media/home.897f86095d0a7c0cdd70.jpg",
+    "static/media/404.jpg": "/react-SPA/static/media/404.6e1400a587df390fd32c.jpg",
+    "static/media/fa-v4compatibility.ttf": "/react-SPA/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/react.svg": "/react-SPA/static/media/react.fde15d0043069baa87bc.svg",
+    "static/media/fa-v4compatibility.woff2": "/react-SPA/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/react-SPA/index.html",
+    "static/media/download.svg": "/react-SPA/static/media/download.a8e0b8bf5bd4007cdad6.svg",
+    "main.0872304b.css.map": "/react-SPA/static/css/main.0872304b.css.map",
+    "main.8addf93d.js.map": "/react-SPA/static/js/main.8addf93d.js.map",
+    "592.d7f30c30.chunk.js.map": "/react-SPA/static/js/592.d7f30c30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0872304b.css",
+    "static/js/main.8addf93d.js"
+  ]
+}
