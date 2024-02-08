@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-SPA/static/css/main.0872304b.css",
+    "main.css": "/react-SPA/static/css/main.59806751.css",
     "main.js": "/react-SPA/static/js/main.8addf93d.js",
     "static/js/592.d7f30c30.chunk.js": "/react-SPA/static/js/592.d7f30c30.chunk.js",
     "static/media/2.png": "/react-SPA/static/media/2.a418da5c10132db700c0.png",
@@ -22,12 +22,12 @@
     "static/media/fa-v4compatibility.woff2": "/react-SPA/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/react-SPA/index.html",
     "static/media/download.svg": "/react-SPA/static/media/download.a8e0b8bf5bd4007cdad6.svg",
-    "main.0872304b.css.map": "/react-SPA/static/css/main.0872304b.css.map",
+    "main.59806751.css.map": "/react-SPA/static/css/main.59806751.css.map",
     "main.8addf93d.js.map": "/react-SPA/static/js/main.8addf93d.js.map",
     "592.d7f30c30.chunk.js.map": "/react-SPA/static/js/592.d7f30c30.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0872304b.css",
+    "static/css/main.59806751.css",
     "static/js/main.8addf93d.js"
   ]
 }
